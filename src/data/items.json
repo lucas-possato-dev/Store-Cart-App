@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ipad",
+    "price": 800,
+    "imgUrl": "/imgs/tablet.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 30000,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Motorcycle",
+    "price": 26000,
+    "imgUrl": "/imgs/motorcycle.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Piano",
+    "price": 3000,
+    "imgUrl": "/imgs/piano.jpg"
+  }
+]
